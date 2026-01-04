@@ -9,8 +9,7 @@ app = Flask(__name__)
 # 🔴 СПИСОК URL ДЛЯ САМОПИНГА
 SELF_URLS = [
     "https://overprotein.onrender.com",
-    # можно добавить ещё:
-    # "https://overprotein-2.onrender.com",
+    "https://requests-site.onrender.com",
 ]
 
 INTERVAL = 15 * 60  # 15 минут
