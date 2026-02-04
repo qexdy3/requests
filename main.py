@@ -10,10 +10,10 @@ app = Flask(__name__)
 SELF_URLS = [
     "https://overprotein.onrender.com",
     "https://requests-site.onrender.com",
-    "https://bot-downloader-ib84.onrender.com/",
+    "https://shoira.onrender.com",
 ]
 
-INTERVAL = 15 * 60  # 15 минут
+INTERVAL = 5 * 60  # 15 минут
 
 
 def self_ping():
