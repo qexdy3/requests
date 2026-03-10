@@ -13,7 +13,7 @@ SELF_URLS = [
     "https://shoira.onrender.com",
 ]
 
-INTERVAL = 5 * 60  # 15 минут
+INTERVAL = 2 * 60  # 15 минут
 
 
 def self_ping():
