@@ -14,7 +14,7 @@ SELF_URLS = [
     "https://qexdy.onrender.com",
 ]
 
-INTERVAL = 2 * 60  # 15 минут
+INTERVAL = 60  # 15 минут
 
 
 def self_ping():
