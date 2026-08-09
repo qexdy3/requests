@@ -11,6 +11,7 @@ SELF_URLS = [
     "https://overprotein.onrender.com",
     "https://requests-site.onrender.com",
     "https://shoira.onrender.com",
+    "https://qexdy.onrender.com",
 ]
 
 INTERVAL = 2 * 60  # 15 минут
