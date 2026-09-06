@@ -12,6 +12,7 @@ SELF_URLS = [
     "https://requests-site.onrender.com",
     "https://shoira.onrender.com",
     "https://qexdy.onrender.com",
+    "https://tg-instagram-youtube-bot.onrender.com",
 ]
 
 INTERVAL = 60  # 15 минут
